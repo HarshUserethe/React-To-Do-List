@@ -40,8 +40,3 @@ You can structure your project as follows:
 
 **User Interaction:**
 Users will be able to interact with the digital score board by inputting runs and wickets, which will update the score and statistics in real-time. You can provide buttons or input fields for this purpose. Also, you can add features for toggling between different views like wagon wheel, Manhattan chart, and match status.
-
-**Real-time Updates:**
-To ensure real-time updates of the score board, you may consider using WebSocket or other real-time communication technologies. WebSocket can be used to send updates from the server to the client whenever a score or wicket is added. You may also implement a simple backend server to handle these updates and communicate with the React front end.
-
-This project will provide valuable experience in building real-time web applications using React and integrating various components to create an interactive and dynamic cricket score board.
